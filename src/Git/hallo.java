@@ -7,6 +7,8 @@ public class hallo {
 	public static void hallo() {
 		System.out.println("Julian lässt schön grüßen :-) !");
 		System.out.println("Mario hier");
+		System.out.println("molbrich lässt euch grüßen");
+
 		if(NoteJerin() == 1) {
 			JOptionPane.showMessageDialog(null, "Jerin ist der Beste");
 		}else{
